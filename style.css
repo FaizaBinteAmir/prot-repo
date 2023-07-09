@@ -36,3 +36,26 @@ nav a{
     border: none;
     padding: 15px 35px;
 }
+.header{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+}
+.btn1{
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+.btn2{
+    color: #FD6E0A;
+    border-color: #FD6E0A;
+}
+.bimg{
+    width: 300px;
+    height: 300px;
+}
